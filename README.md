@@ -5,17 +5,6 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Demo](#demo)
-  * [Learning Objective](#Learning-Objective)
-  * [Technical Aspect](#technical-aspect)
-  * [Technologies Used](#technologies-used)
-  * [To Do](#to-do)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Bug / Feature Request](#bug---feature-request)
-  * [Team](#team)
-  * [License](#license)
-  * [Credits](#credits)
-
 
 ### Overview 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as 
